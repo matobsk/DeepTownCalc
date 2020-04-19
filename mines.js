@@ -660,7 +660,7 @@ const mines = [
    
  },
  {
-   area: "56 \n    Oil",
+   area: "56",
    emerald: "32.92",
    gold: "25.00",
    ruby: "17.50",
@@ -696,7 +696,7 @@ const mines = [
    
  },
  {
-   area: "59 \n    Oil",
+   area: "59",
    emerald: "37.17",
    ruby: "25.00",
    diamond: "16.67",
@@ -744,7 +744,7 @@ const mines = [
    
  },
  {
-   area: "63 \n    Oil",
+   area: "63",
    emerald: "33.33",
    ruby: "31.67",
    diamond: "16.67",
@@ -756,7 +756,7 @@ const mines = [
    
  },
  {
-   area: "64 \n    Oil",
+   area: "64",
    ruby: "32.50",
    emerald: "30.00",
    topaz: "15.00",
@@ -816,7 +816,7 @@ const mines = [
    
  },
  {
-   area: "69 \n    Oil",
+   area: "69",
    ruby: "36.67",
    topaz: "23.33",
    sapphire: "13.33",
@@ -900,7 +900,7 @@ const mines = [
    
  },
  {
-   area: "76 \n    Oil",
+   area: "76",
    ruby: "30.00",
    topaz: "22.50",
    amethyst: "17.50",
@@ -912,7 +912,7 @@ const mines = [
    
  },
  {
-   area: "77 \n    Oil",
+   area: "77",
    ruby: "26.67",
    topaz: "20.00",
    amethyst: "20.00",
@@ -924,7 +924,7 @@ const mines = [
    
  },
  {
-   area: "78 \n    Oil",
+   area: "78",
    ruby: "23.33",
    amethyst: "22.50",
    topaz: "17.50",
@@ -936,7 +936,7 @@ const mines = [
    
  },
  {
-   area: "79 \n    Oil",
+   area: "79",
    amethyst: "25.00",
    ruby: "20.00",
    topaz: "15.00",
@@ -948,7 +948,7 @@ const mines = [
    
  },
  {
-   area: "80 \n    Oil",
+   area: "80",
    amethyst: "27.50",
    ruby: "16.67",
    alexandrite: "15.75",
@@ -972,7 +972,7 @@ const mines = [
    
  },
  {
-   area: "82 \n    Oil",
+   area: "82",
    amethyst: "32.50",
    alexandrite: "20.25",
    titaniumOre: "15.00",
